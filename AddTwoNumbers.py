@@ -26,7 +26,7 @@ class BruteForce:
             curr.next=ListNode(carry);
         return dummyHead.next;
         
-        class Recursion:
+class Recursion:
     def addTwoNumbers(self, l1, l2 ,c = 0):
         """
         :type l1: ListNode
